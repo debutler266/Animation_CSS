@@ -148,13 +148,13 @@
 @media only screen and (min-device-width : 375px) {
   .back-wheel {
     left: -117px;
-    bottom: -795px;
+    bottom: -693px;
     position: absolute;
   }
 
   .front-wheel {
     left: 174px;
-    bottom: -792px;
+    bottom: -689px;
     position: absolute;
   }
 
